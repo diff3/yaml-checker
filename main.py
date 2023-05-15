@@ -44,7 +44,7 @@ def main():
     key1 = list(dict_1.keys())[0]
     key2 = list(dict_2.keys())[0]
 
-    # Skip one step, becouse key1 amd key2 differ, but i should not
+    # Skip one step, because key1 amd key2 differ, but it should not
     next1 = dict_1[key1]
     next2 = dict_2[key2]
 
